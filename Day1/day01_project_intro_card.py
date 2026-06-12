@@ -1,0 +1,7 @@
+print("Hello! World")
+print("Apple", "Banana", "Mango", sep=" | ")
+print("line1 \n Line2 \n line3\n")
+print("Name:\tSaloni")
+print(42)
+print(1+2)
+print("My name is Saloni", " I am a Python Learner")
