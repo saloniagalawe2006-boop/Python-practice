@@ -4,7 +4,8 @@ A daily Python learning journey from absolute beginner to advanced developer.
 
 ## Progress
  Day 01 - Hello World & print()
- Day 02 - Variables and Datatypes
+  Day 02 - Variables and Datatypes
+   Day 3: User Input & type()
 
 
 
