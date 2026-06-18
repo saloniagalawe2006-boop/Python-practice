@@ -9,6 +9,7 @@ A daily Python learning journey from absolute beginner to advanced developer.
    Day 4: String Methods
    Day 5 : Operators
    Day 6 : Conditions
+   Day 7: Nested Conditions
    
 
 
