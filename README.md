@@ -12,8 +12,8 @@ A daily Python learning journey from absolute beginner to advanced developer.
    Day 7: Nested Conditions
    Day 8: While loop
    Day 9 : for loops
+   Day 10 :Loop control
    
-
 
 
 
