@@ -10,6 +10,8 @@ A daily Python learning journey from absolute beginner to advanced developer.
    Day 5 : Operators
    Day 6 : Conditions
    Day 7: Nested Conditions
+   Day 8: While loop
+   Day 9 : for loops
    
 
 
