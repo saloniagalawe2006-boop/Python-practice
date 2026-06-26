@@ -17,6 +17,7 @@ A daily Python learning journey from absolute beginner to advanced developer.
    Day 12: Arguments & Return
    Day 13: Default & Keyword Arguments
    Day 14: Scope and Global
+   Day 14 : String Formatting
    
 
 
