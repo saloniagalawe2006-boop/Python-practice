@@ -26,7 +26,7 @@ A daily Python learning journey from absolute beginner to advanced developer.
 Each day has its own folder with:
 - A concept file (with comments explaining every line)
 - Practice exercises
-- A mini project
+
 
 🗓 Started: June 2026
 
