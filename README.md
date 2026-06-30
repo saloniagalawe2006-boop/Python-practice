@@ -20,7 +20,7 @@ A daily Python learning journey from absolute beginner to advanced developer.
 | 15  | String Formatting | ✅ Done |
 | 16  | f-strings Deep Dive | ✅ Done |
 | 17  | String Slicing (Advanced) | ✅ Done |
-| 18  | Mini Project: Calculator | ⏳ Next |
+| 18  | Mini Project: Calculator Mini Project:Unit Converter  | ✅ Done |
 
 ## 📁 Structure
 Each day has its own folder with:
