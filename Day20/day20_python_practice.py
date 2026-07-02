@@ -25,7 +25,7 @@ def add_student():
     name = input("Enter student name: ").strip().title()
 
     if name in students:
-        print(f"  '{name}' already exists. Their record will be overwritten.\n")
+        print(f"   '{name}' already exists. Their record will be overwritten.\n")
 
     subjects = input("Enter subjects separated by commas (e.g. Math,Science,English): ")
     subject_list = [s.strip().title() for s in subjects.split(",") if s.strip()]
